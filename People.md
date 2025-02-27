@@ -1,0 +1,25 @@
+# Linkedin
+- Alexandre Oda
+- Bancal Damien
+- Troy Hunt
+- Laurent M.
+- SaxX
+- Alex Reid
+- Sumit Jain
+- Julien Metayer
+- Joas a Santos
+- Cherif Keddida
+- Xavier Pestel
+- Fabien Boiteux
+- Marc S.
+- Christopher Thiefin (Processus)
+- Karim Lamouri
+- Robert Terro
+- Luc Chrétien
+- Mohamed Waked N.
+- Rémi Gascou
+- Abhirup Konwar
+- Aidan Raney
+- UK Osint Community
+- Ahmed Basiony
+- Nishant Tomar
