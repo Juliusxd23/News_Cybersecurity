@@ -2,11 +2,11 @@
 
 ## Description
 
-You will here, many source of information I use, to stay up to date about CyberSecurity :
+You will find here, many sources of information I use, to stay up to date about CyberSecurity :
 - You will find in **People.md**, some people to follow
-- You will find in **Website.md**, some website which agregate news, explanation, ...
+- You will find in **Website.md**, some website which aggregate news, explanation, ...
 
-Some source are in french, other in english, some speak about technical pentest, other speak about networking, you will information in the broad sense of the terms
+Some sources are in french, other in english, some speak about technical pentest, other speak about networking, you will information in the broad sense of the terms
 
 ## Contribution
 
