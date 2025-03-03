@@ -32,7 +32,21 @@ To find new medium article use the list in this git repository, which get update
 
 ## Google Dorks
 - https://www.exploit-db.com/
+- https://dorksearch.com/
+- https://taksec.github.io/google-dorks-bug-bounty/
+- https://elite-google-dorks-search-by-biscuit.vercel.app/
 - https://github.com/SecShiv/OneDorkForAll
+
+## Writeups (Bug Bounty and CTF)
+- https://ctfsearch.hackmap.win/
+- https://www.bugbountyhunting.com/
+- http://pentester.land/writeups/
+- https://infosecwriteups.com/tagged/bug-bounty
+- https://github.com/reddelexc/hackerone-reports
+- site:openbugbounty.org inurl:reports "example.com"
+- site:hackerone.com inurl:reports "example.com"
+- site:intigriti.com inurl:reports "example.com"
+- site:bugcrowd.com inurl:reports "example.com"
 
 ## Ransomware
 - https://ransomwhe.re/
