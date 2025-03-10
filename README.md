@@ -8,6 +8,7 @@
 
 ## Tools
 - https://inventory.raw.pm/
+- https://github.com/yogsec/Hacking-Tools
 
 ## Articles
 - https://hacklido.com/
@@ -15,11 +16,15 @@
 - https://news.nohackme.com/
 - https://korben.info/
 - https://krebsonsecurity.com/
+- https://academy.osintcombine.com/p/osint-knowledge
+- https://djbsec.github.io/blog/
+- https://blog.criticalthinkingpodcast.io/
 
 ## Medium
 - https://medium.com/@abhirupkonwar04
 - https://nurcholismajid.medium.com/
 - https://coffinxp.medium.com/
+- https://medium.com/@loyalonlytoday
 
 If some article are "Member-Only" you can use https://freedium.cfd/ to read those article for free\
 To find new medium article use the list in this git repository, which get update every 10min :
@@ -31,6 +36,7 @@ To find new medium article use the list in this git repository, which get update
 - https://www.reddit.com/r/redteamsec/
 - https://www.reddit.com/r/OSINT/
 - https://www.reddit.com/r/devsecops/
+- https://www.reddit.com/r/bugbounty/
 
 ## Linkedin
 - https://www.linkedin.com/in/oda-alexandre/
@@ -54,6 +60,8 @@ To find new medium article use the list in this git repository, which get update
 - https://www.linkedin.com/in/abhirup-konwar-a626201a6/
 - https://www.linkedin.com/in/devaidan/
 - https://www.linkedin.com/in/ni6x/
+- https://www.linkedin.com/in/djbsec/
+- https://www.linkedin.com/in/fouad-larabi/
 - https://www.linkedin.com/company/osintuk/posts/?feedView=all
 
 ## Youtube Channel
@@ -78,6 +86,14 @@ To find new medium article use the list in this git repository, which get update
 - https://www.youtube.com/@LoiLiangYang/videos
 - https://www.youtube.com/@HacktBack/videos
 - https://www.youtube.com/@GOTO-/videos
+
+## Podcast
+- Hack'n Speak
+- Cybersécurité All Day
+- NoLimitSecu
+- DarkDiaries
+- Cybersecurity Today
+- Critical Thinking - Bug Bounty Podcast
 
 ## Google Dorks
 - https://www.exploit-db.com/
@@ -108,13 +124,21 @@ To find new medium article use the list in this git repository, which get update
 
 ## Privacy
 - https://www.privacyguides.org/en/tools/
+- https://privacy.sexy/
 
-## Certification
+## Career / Certification
 - https://pauljerimy.com/security-certification-roadmap/
+- https://niccs.cisa.gov/workforce-development/cyber-career-pathways-tool
+- https://github.com/OffcierCia/non-typical-OSINT-guide
 
 ## Jobs
 - https://isecjobs.com/
 - https://jobs.cybersecurityjobs.com/jobs
+
+## Bonus
+- https://github.com/The-Art-of-Hacking/h4cker
+- https://github.com/dub-flow/secure-code-review-challenges
+- https://github.com/Whitecat18/Rust-for-Malware-Development
 
 ## Contribution
 
