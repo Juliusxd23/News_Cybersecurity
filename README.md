@@ -9,6 +9,7 @@
 ## Tools
 - https://inventory.raw.pm/
 - https://github.com/yogsec/Hacking-Tools
+- https://www.hudsonrock.com/threat-intelligence-cybercrime-tools
 
 ## Articles
 - https://hacklido.com/
