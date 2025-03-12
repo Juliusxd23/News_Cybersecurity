@@ -3,6 +3,8 @@
 ## Exploits and CVE
 - https://vulners.com/
 - https://huntdb.com/
+- https://vulmon.com/
+- https://sploitus.com/
 - https://www.zero-day.cz/
 - https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 
@@ -10,6 +12,7 @@
 - https://inventory.raw.pm/
 - https://github.com/yogsec/Hacking-Tools
 - https://www.hudsonrock.com/threat-intelligence-cybercrime-tools
+- https://goosint.com/
 
 ## Articles
 - https://hacklido.com/
@@ -64,6 +67,12 @@ To find new medium article use the list in this git repository, which get update
 - https://www.linkedin.com/in/djbsec/
 - https://www.linkedin.com/in/fouad-larabi/
 - https://www.linkedin.com/company/osintuk/posts/?feedView=all
+
+## X / Twitter
+- https://x.com/chux13786509
+- https://x.com/SinSinology
+- https://x.com/0xLupin
+- https://x.com/coffinxp7
 
 ## Youtube Channel
 - https://www.youtube.com/@davidbombal
