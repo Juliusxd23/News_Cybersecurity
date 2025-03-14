@@ -23,6 +23,7 @@
 - https://academy.osintcombine.com/p/osint-knowledge
 - https://djbsec.github.io/blog/
 - https://blog.criticalthinkingpodcast.io/
+- https://blog.stephane-robert.info/post/
 
 ## Medium
 - https://medium.com/@abhirupkonwar04
@@ -66,6 +67,7 @@ To find new medium article use the list in this git repository, which get update
 - https://www.linkedin.com/in/ni6x/
 - https://www.linkedin.com/in/djbsec/
 - https://www.linkedin.com/in/fouad-larabi/
+- https://www.linkedin.com/in/baptiste-robert/
 - https://www.linkedin.com/company/osintuk/posts/?feedView=all
 
 ## X / Twitter
@@ -96,6 +98,8 @@ To find new medium article use the list in this git repository, which get update
 - https://www.youtube.com/@LoiLiangYang/videos
 - https://www.youtube.com/@HacktBack/videos
 - https://www.youtube.com/@GOTO-/videos
+- https://www.youtube.com/@SANSCyberDefense
+- https://www.youtube.com/@JohnWatsonRooney
 
 ## Podcast
 - Hack'n Speak
