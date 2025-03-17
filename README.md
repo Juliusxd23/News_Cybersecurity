@@ -6,6 +6,7 @@
 - https://vulmon.com/
 - https://sploitus.com/
 - https://www.zero-day.cz/
+- https://0day.today/
 - https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 
 ## Tools
@@ -68,6 +69,7 @@ To find new medium article use the list in this git repository, which get update
 - https://www.linkedin.com/in/djbsec/
 - https://www.linkedin.com/in/fouad-larabi/
 - https://www.linkedin.com/in/baptiste-robert/
+- https://www.linkedin.com/in/jess-b-investigator/
 - https://www.linkedin.com/company/osintuk/posts/?feedView=all
 
 ## X / Twitter
