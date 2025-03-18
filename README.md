@@ -7,6 +7,7 @@
 - https://sploitus.com/
 - https://www.zero-day.cz/
 - https://0day.today/
+- https://osv.dev/list
 - https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 
 ## Tools
@@ -42,6 +43,7 @@ To find new medium article use the list in this git repository, which get update
 - https://www.reddit.com/r/redteamsec/
 - https://www.reddit.com/r/OSINT/
 - https://www.reddit.com/r/devsecops/
+- https://www.reddit.com/r/sysadmin/
 - https://www.reddit.com/r/bugbounty/
 
 ## Linkedin
@@ -145,6 +147,8 @@ To find new medium article use the list in this git repository, which get update
 ## Career / Certification
 - https://pauljerimy.com/security-certification-roadmap/
 - https://niccs.cisa.gov/workforce-development/cyber-career-pathways-tool
+- https://www.stationx.net/cyber-security-domains/
+- https://www.stationx.net/cyber-security-career-pathway/
 - https://github.com/OffcierCia/non-typical-OSINT-guide
 
 ## Jobs
@@ -155,6 +159,7 @@ To find new medium article use the list in this git repository, which get update
 - https://github.com/The-Art-of-Hacking/h4cker
 - https://github.com/dub-flow/secure-code-review-challenges
 - https://github.com/Whitecat18/Rust-for-Malware-Development
+- https://clark.center/home
 
 ## Contribution
 
