@@ -1,13 +1,15 @@
 # News Cybersecurity
 
-## Exploits and CVE
-- https://vulners.com/
-- https://huntdb.com/
-- https://vulmon.com/
+## Exploits / CVE
 - https://sploitus.com/
-- https://www.zero-day.cz/
 - https://0day.today/
 - https://osv.dev/list
+- https://cxsecurity.com/
+- https://www.exploit-db.com/
+- https://vulmon.com/
+- https://huntdb.com/
+- https://vulners.com/
+- https://www.zero-day.cz/
 - https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 
 ## Tools
@@ -26,6 +28,7 @@
 - https://djbsec.github.io/blog/
 - https://blog.criticalthinkingpodcast.io/
 - https://blog.stephane-robert.info/post/
+- https://www.offensiveosint.io/
 
 ## Medium
 - https://medium.com/@abhirupkonwar04
@@ -145,11 +148,13 @@ To find new medium article use the list in this git repository, which get update
 - https://privacy.sexy/
 
 ## Career / Certification
-- https://pauljerimy.com/security-certification-roadmap/
 - https://niccs.cisa.gov/workforce-development/cyber-career-pathways-tool
-- https://www.stationx.net/cyber-security-domains/
+- https://cybersecurityguide.org/
 - https://www.stationx.net/cyber-security-career-pathway/
+- https://www.stationx.net/cyber-security-domains/
 - https://github.com/OffcierCia/non-typical-OSINT-guide
+- https://pauljerimy.com/security-certification-roadmap/
+- https://inventory.raw.pm/certifications.html
 
 ## Jobs
 - https://isecjobs.com/
@@ -160,6 +165,7 @@ To find new medium article use the list in this git repository, which get update
 - https://github.com/dub-flow/secure-code-review-challenges
 - https://github.com/Whitecat18/Rust-for-Malware-Development
 - https://clark.center/home
+- https://github.com/Aif4thah/Dojo-101
 
 ## Contribution
 
