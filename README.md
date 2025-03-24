@@ -106,6 +106,8 @@ To find new medium article use the list in this git repository, which get update
 - https://www.youtube.com/@HacktBack/videos
 - https://www.youtube.com/@GOTO-/videos
 - https://www.youtube.com/@SANSCyberDefense
+- https://www.youtube.com/@BugBountyReportsExplained/videos
+- https://www.youtube.com/@NahamSec
 - https://www.youtube.com/@JohnWatsonRooney
 
 ## Podcast
@@ -115,6 +117,11 @@ To find new medium article use the list in this git repository, which get update
 - DarkDiaries
 - Cybersecurity Today
 - Critical Thinking - Bug Bounty Podcast
+
+## Newletters 
+- https://www.hivefive.community/
+- https://www.bugbountyexplained.com/
+- https://vulners.com/email
 
 ## Google Dorks
 - https://www.exploit-db.com/
