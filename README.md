@@ -17,6 +17,7 @@
 - https://github.com/yogsec/Hacking-Tools
 - https://www.hudsonrock.com/threat-intelligence-cybercrime-tools
 - https://goosint.com/
+- https://list.latio.tech/
 
 ## Articles
 - https://hacklido.com/
@@ -29,6 +30,7 @@
 - https://blog.criticalthinkingpodcast.io/
 - https://blog.stephane-robert.info/post/
 - https://www.offensiveosint.io/
+- https://book.hacktricks.wiki/en/index.html
 
 ## Medium
 - https://medium.com/@abhirupkonwar04
@@ -80,6 +82,7 @@ To find new medium article use the list in this git repository, which get update
 ## X / Twitter
 - https://x.com/chux13786509
 - https://x.com/SinSinology
+- https://x.com/GodfatherOrwa
 - https://x.com/0xLupin
 - https://x.com/coffinxp7
 
