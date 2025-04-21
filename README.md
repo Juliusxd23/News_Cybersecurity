@@ -15,6 +15,7 @@
 ## Tools
 - https://inventory.raw.pm/
 - https://github.com/yogsec/Hacking-Tools
+- https://opensourcesecurityindex.io/
 - https://www.hudsonrock.com/threat-intelligence-cybercrime-tools
 - https://goosint.com/
 - https://list.latio.tech/
@@ -85,6 +86,11 @@ To find new medium article use the list in this git repository, which get update
 - https://x.com/GodfatherOrwa
 - https://x.com/0xLupin
 - https://x.com/coffinxp7
+- https://x.com/ddimolfetta
+- https://x.com/0XTib3rius
+- https://x.com/_JohnHammond
+- https://x.com/NahamSec
+- https://x.com/I_Am_Jakoby
 
 ## Youtube Channel
 - https://www.youtube.com/@davidbombal
