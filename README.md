@@ -32,6 +32,7 @@
 - https://blog.stephane-robert.info/post/
 - https://www.offensiveosint.io/
 - https://book.hacktricks.wiki/en/index.html
+- https://exploitreversing.com/
 
 ## Medium
 - https://medium.com/@abhirupkonwar04
@@ -39,7 +40,7 @@
 - https://coffinxp.medium.com/
 - https://medium.com/@loyalonlytoday
 
-If some article are "Member-Only" you can use https://freedium.cfd/ to read those article for free\
+If some article are "Member-Only" you can use https://freedium.cfd/ or https://12ft.io/ to read those article for free\
 To find new medium article use the list in this git repository, which get update every 10min :
 - https://github.com/rix4uni/medium-writeups
 
@@ -118,6 +119,7 @@ To find new medium article use the list in this git repository, which get update
 - https://www.youtube.com/@BugBountyReportsExplained/videos
 - https://www.youtube.com/@NahamSec
 - https://www.youtube.com/@JohnWatsonRooney
+- https://www.youtube.com/@ChrisGreer
 
 ## Podcast
 - Hack'n Speak
@@ -182,6 +184,7 @@ To find new medium article use the list in this git repository, which get update
 - https://github.com/Whitecat18/Rust-for-Malware-Development
 - https://clark.center/home
 - https://github.com/Aif4thah/Dojo-101
+- https://recon-royale.com/
 
 ## Contribution
 
