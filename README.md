@@ -97,29 +97,30 @@ To find new medium article use the list in this git repository, which get update
 - https://www.youtube.com/@davidbombal
 - https://www.youtube.com/@wakedxy
 - https://www.youtube.com/@LiveOverflow
-- https://www.youtube.com/@josemonkey/videos
-- https://www.youtube.com/@processusthief/videos
-- https://www.youtube.com/@_JohnHammond/videos
-- https://www.youtube.com/@EngineerMan/videos
-- https://www.youtube.com/@NullByteWHT/videos
-- https://www.youtube.com/@NetworkChuck/videos
-- https://www.youtube.com/@MichelKartner/videos
-- https://www.youtube.com/@Errichto/videos
-- https://www.youtube.com/@HafniumSecuriteInformatique/videos
-- https://www.youtube.com/@FusionSecurity.Official/videos
-- https://www.youtube.com/@TCMSecurityAcademy/videos
-- https://www.youtube.com/@davidbombal/videos
-- https://www.youtube.com/@Micode/videos
-- https://www.youtube.com/@ryan_phdsec/videos
-- https://www.youtube.com/@collinsinfosec/videos
-- https://www.youtube.com/@LoiLiangYang/videos
-- https://www.youtube.com/@HacktBack/videos
-- https://www.youtube.com/@GOTO-/videos
+- https://www.youtube.com/@josemonkey
+- https://www.youtube.com/@processusthief
+- https://www.youtube.com/@_JohnHammond
+- https://www.youtube.com/@EngineerMan
+- https://www.youtube.com/@NullByteWHT
+- https://www.youtube.com/@NetworkChuck
+- https://www.youtube.com/@MichelKartner
+- https://www.youtube.com/@Errichto
+- https://www.youtube.com/@HafniumSecuriteInformatique
+- https://www.youtube.com/@FusionSecurity.Official
+- https://www.youtube.com/@TCMSecurityAcademy
+- https://www.youtube.com/@davidbombal
+- https://www.youtube.com/@Micode
+- https://www.youtube.com/@ryan_phdsec
+- https://www.youtube.com/@collinsinfosec
+- https://www.youtube.com/@LoiLiangYang
+- https://www.youtube.com/@HacktBack
+- https://www.youtube.com/@GOTO-
 - https://www.youtube.com/@SANSCyberDefense
-- https://www.youtube.com/@BugBountyReportsExplained/videos
+- https://www.youtube.com/@BugBountyReportsExplained
 - https://www.youtube.com/@NahamSec
 - https://www.youtube.com/@JohnWatsonRooney
 - https://www.youtube.com/@ChrisGreer
+- https://www.youtube.com/@BePracticalTech
 
 ## Podcast
 - Hack'n Speak
@@ -164,6 +165,9 @@ To find new medium article use the list in this git repository, which get update
 ## Privacy
 - https://www.privacyguides.org/en/tools/
 - https://privacy.sexy/
+
+## Trends
+- https://trends.google.fr/trends/
 
 ## Career / Certification
 - https://niccs.cisa.gov/workforce-development/cyber-career-pathways-tool
