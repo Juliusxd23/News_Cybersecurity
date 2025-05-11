@@ -19,6 +19,8 @@
 - https://www.hudsonrock.com/threat-intelligence-cybercrime-tools
 - https://goosint.com/
 - https://list.latio.tech/
+- https://cybersectools.com/
+- https://it-tools.tech/
 
 ## Articles
 - https://hacklido.com/
@@ -134,6 +136,7 @@ To find new medium article use the list in this git repository, which get update
 - https://www.hivefive.community/
 - https://www.bugbountyexplained.com/
 - https://vulners.com/email
+- https://www.rudeops.com/
 
 ## Google Dorks
 - https://www.exploit-db.com/
