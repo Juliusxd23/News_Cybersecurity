@@ -81,6 +81,7 @@ To find new medium article use the list in this git repository, which get update
 - https://www.linkedin.com/in/fouad-larabi/
 - https://www.linkedin.com/in/baptiste-robert/
 - https://www.linkedin.com/in/jess-b-investigator/
+- https://www.linkedin.com/in/laura-cyberconsultante/
 - https://www.linkedin.com/company/osintuk/posts/?feedView=all
 
 ## X / Twitter
