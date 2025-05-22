@@ -97,7 +97,6 @@ To find new medium article use the list in this git repository, which get update
 - https://x.com/I_Am_Jakoby
 
 ## Youtube Channel
-- https://www.youtube.com/@davidbombal
 - https://www.youtube.com/@wakedxy
 - https://www.youtube.com/@LiveOverflow
 - https://www.youtube.com/@josemonkey
