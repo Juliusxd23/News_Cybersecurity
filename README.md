@@ -21,6 +21,7 @@
 - https://list.latio.tech/
 - https://cybersectools.com/
 - https://it-tools.tech/
+- https://selfh.st/apps/
 
 ## Articles
 - https://hacklido.com/
