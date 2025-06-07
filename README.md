@@ -159,7 +159,9 @@ To find new medium article use the list in this git repository, which get update
 
 ## Ransomware
 - https://ransomwhe.re/
+- https://www.ransomware.live/
 - https://viz.greynoise.io/trends/active
+- https://ransomwatch.telemetry.ltd/
 
 ## IA
 - https://theresanaiforthat.com/
