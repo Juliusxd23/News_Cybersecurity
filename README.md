@@ -42,6 +42,9 @@
 - https://nurcholismajid.medium.com/
 - https://coffinxp.medium.com/
 - https://medium.com/@loyalonlytoday
+- https://medium.com/@joetheosintguy
+- https://medium.com/@RaunakGupta1922
+- https://medium.com/@SatyamPathania
 
 If some article are "Member-Only" you can use https://freedium.cfd/ or https://12ft.io/ to read those article for free\
 To find new medium article use the list in this git repository, which get update every 10min :
@@ -96,6 +99,7 @@ To find new medium article use the list in this git repository, which get update
 - https://x.com/_JohnHammond
 - https://x.com/NahamSec
 - https://x.com/I_Am_Jakoby
+- https://x.com/infosec_au
 
 ## Youtube Channel
 - https://www.youtube.com/@wakedxy
