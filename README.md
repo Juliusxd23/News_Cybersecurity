@@ -128,6 +128,7 @@ To find new medium article use the list in this git repository, which get update
 - https://www.youtube.com/@JohnWatsonRooney
 - https://www.youtube.com/@ChrisGreer
 - https://www.youtube.com/@BePracticalTech
+- https://www.youtube.com/@TheXSSRat
 
 ## Podcast
 - Hack'n Speak
