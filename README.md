@@ -1,46 +1,46 @@
 # News Cybersecurity
 
 ## Exploits / CVE
-- https://sploitus.com/
-- https://0day.today/
+- https://sploitus.com
+- https://0day.today
 - https://osv.dev/list
-- https://cxsecurity.com/
-- https://www.exploit-db.com/
-- https://vulmon.com/
-- https://huntdb.com/
-- https://vulners.com/
-- https://www.zero-day.cz/
+- https://cxsecurity.com
+- https://www.exploit-db.com
+- https://vulmon.com
+- https://huntdb.com
+- https://vulners.com
+- https://www.zero-day.cz
 - https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 
 ## Tools
-- https://inventory.raw.pm/
+- https://inventory.raw.pm
 - https://github.com/yogsec/Hacking-Tools
-- https://opensourcesecurityindex.io/
+- https://opensourcesecurityindex.io
 - https://www.hudsonrock.com/threat-intelligence-cybercrime-tools
-- https://goosint.com/
-- https://list.latio.tech/
-- https://cybersectools.com/
-- https://it-tools.tech/
-- https://selfh.st/apps/
+- https://goosint.com
+- https://list.latio.tech
+- https://cybersectools.com
+- https://it-tools.tech
+- https://selfh.st/apps
 
 ## Articles
-- https://hacklido.com/
-- https://hackread.com/
-- https://news.nohackme.com/
-- https://korben.info/
-- https://krebsonsecurity.com/
+- https://hacklido.com
+- https://hackread.com
+- https://news.nohackme.com
+- https://korben.info
+- https://krebsonsecurity.com
 - https://academy.osintcombine.com/p/osint-knowledge
-- https://djbsec.github.io/blog/
-- https://blog.criticalthinkingpodcast.io/
-- https://blog.stephane-robert.info/post/
-- https://www.offensiveosint.io/
+- https://djbsec.github.io/blog
+- https://blog.criticalthinkingpodcast.io
+- https://blog.stephane-robert.info/post
+- https://www.offensiveosint.io
 - https://book.hacktricks.wiki/en/index.html
-- https://exploitreversing.com/
+- https://exploitreversing.com
 
 ## Medium
 - https://medium.com/@abhirupkonwar04
-- https://nurcholismajid.medium.com/
-- https://coffinxp.medium.com/
+- https://nurcholismajid.medium.com
+- https://coffinxp.medium.com
 - https://medium.com/@loyalonlytoday
 - https://medium.com/@joetheosintguy
 - https://medium.com/@RaunakGupta1922
@@ -51,41 +51,41 @@ To find new medium article use the list in this git repository, which get update
 - https://github.com/rix4uni/medium-writeups
 
 ## Reddit
-- https://www.reddit.com/r/cybersecurity/
-- https://www.reddit.com/r/blueteamsec/
-- https://www.reddit.com/r/redteamsec/
-- https://www.reddit.com/r/OSINT/
-- https://www.reddit.com/r/devsecops/
-- https://www.reddit.com/r/sysadmin/
-- https://www.reddit.com/r/bugbounty/
+- https://www.reddit.com/r/cybersecurity
+- https://www.reddit.com/r/blueteamsec
+- https://www.reddit.com/r/redteamsec
+- https://www.reddit.com/r/OSINT
+- https://www.reddit.com/r/devsecops
+- https://www.reddit.com/r/sysadmin
+- https://www.reddit.com/r/bugbounty
 
 ## Linkedin
-- https://www.linkedin.com/in/oda-alexandre/
-- https://www.linkedin.com/in/bancal-damien/
-- https://www.linkedin.com/in/troyhunt/
-- https://www.linkedin.com/in/laurent-minne/
-- https://www.linkedin.com/in/clementdomingo/
-- https://www.linkedin.com/in/alex-reid-2b5360222/
-- https://www.linkedin.com/in/sumitjainofficial/
-- https://www.linkedin.com/in/jmetayer/
-- https://www.linkedin.com/in/joas-antonio-dos-santos/
-- https://www.linkedin.com/in/xavier-pestel/
-- https://www.linkedin.com/in/%F0%9F%9B%A1fabien-b-bb2a392/
-- https://www.linkedin.com/in/mse75/
-- https://www.linkedin.com/in/christopher-thiefin/
-- https://www.linkedin.com/in/karim-lamouri-59087b/
-- https://www.linkedin.com/in/robert-terro-cissp/
-- https://www.linkedin.com/in/lucchretien/
-- https://www.linkedin.com/in/wakedxy/
-- https://www.linkedin.com/in/remigascou/
-- https://www.linkedin.com/in/abhirup-konwar-a626201a6/
-- https://www.linkedin.com/in/devaidan/
-- https://www.linkedin.com/in/ni6x/
-- https://www.linkedin.com/in/djbsec/
-- https://www.linkedin.com/in/fouad-larabi/
-- https://www.linkedin.com/in/baptiste-robert/
-- https://www.linkedin.com/in/jess-b-investigator/
-- https://www.linkedin.com/in/laura-cyberconsultante/
+- https://www.linkedin.com/in/oda-alexandre
+- https://www.linkedin.com/in/bancal-damien
+- https://www.linkedin.com/in/troyhunt
+- https://www.linkedin.com/in/laurent-minne
+- https://www.linkedin.com/in/clementdomingo
+- https://www.linkedin.com/in/alex-reid-2b5360222
+- https://www.linkedin.com/in/sumitjainofficial
+- https://www.linkedin.com/in/jmetayer
+- https://www.linkedin.com/in/joas-antonio-dos-santos
+- https://www.linkedin.com/in/xavier-pestel
+- https://www.linkedin.com/in/%F0%9F%9B%A1fabien-b-bb2a392
+- https://www.linkedin.com/in/mse75
+- https://www.linkedin.com/in/christopher-thiefin
+- https://www.linkedin.com/in/karim-lamouri-59087b
+- https://www.linkedin.com/in/robert-terro-cissp
+- https://www.linkedin.com/in/lucchretien
+- https://www.linkedin.com/in/wakedxy
+- https://www.linkedin.com/in/remigascou
+- https://www.linkedin.com/in/abhirup-konwar-a626201a6
+- https://www.linkedin.com/in/devaidan
+- https://www.linkedin.com/in/ni6x
+- https://www.linkedin.com/in/djbsec
+- https://www.linkedin.com/in/fouad-larabi
+- https://www.linkedin.com/in/baptiste-robert
+- https://www.linkedin.com/in/jess-b-investigator
+- https://www.linkedin.com/in/laura-cyberconsultante
 - https://www.linkedin.com/company/osintuk/posts/?feedView=all
 
 ## X / Twitter
@@ -100,6 +100,7 @@ To find new medium article use the list in this git repository, which get update
 - https://x.com/NahamSec
 - https://x.com/I_Am_Jakoby
 - https://x.com/infosec_au
+- https://x.com/disclosedh1
 
 ## Youtube Channel
 - https://www.youtube.com/@wakedxy
@@ -138,60 +139,66 @@ To find new medium article use the list in this git repository, which get update
 - Cybersecurity Today
 - Critical Thinking - Bug Bounty Podcast
 
-## Newletters 
-- https://www.hivefive.community/
-- https://www.bugbountyexplained.com/
+## Newletters
+- https://www.hivefive.community
+- https://www.bugbountyexplained.com
 - https://vulners.com/email
 - https://www.rudeops.com/
 
 ## Google Dorks
-- https://www.exploit-db.com/
-- https://dorksearch.com/
-- https://taksec.github.io/google-dorks-bug-bounty/
-- https://elite-google-dorks-search-by-biscuit.vercel.app/
+- https://www.exploit-db.com
+- https://dorksearch.com
+- https://taksec.github.io/google-dorks-bug-bounty
+- https://elite-google-dorks-search-by-biscuit.vercel.app
 - https://github.com/SecShiv/OneDorkForAll
 
 ## Writeups (Bug Bounty and CTF)
-- https://ctfsearch.hackmap.win/
-- https://www.bugbountyhunting.com/
-- http://pentester.land/writeups/
+- https://ctfsearch.hackmap.win
+- https://www.bugbountyhunting.com
+- http://pentester.land/writeups
 - https://infosecwriteups.com/tagged/bug-bounty
+- https://github.com/rix4uni/medium-writeups
 - https://github.com/reddelexc/hackerone-reports
+- https://x.com/disclosedh1
+- https://hacker-writeups.github.io
 - site:openbugbounty.org inurl:reports "example.com"
 - site:hackerone.com inurl:reports "example.com"
 - site:intigriti.com inurl:reports "example.com"
 - site:bugcrowd.com inurl:reports "example.com"
 
 ## Ransomware
-- https://ransomwhe.re/
-- https://www.ransomware.live/
+- https://ransomwhe.re
+- https://www.ransomware.live
 - https://viz.greynoise.io/trends/active
-- https://ransomwatch.telemetry.ltd/
+- https://ransomwatch.telemetry.ltd
 
 ## IA
-- https://theresanaiforthat.com/
-- https://topai.tools/
-- https://humbaa.com/
+- https://theresanaiforthat.com
+- https://topai.tools
+- https://humbaa.com
 
 ## Privacy
-- https://www.privacyguides.org/en/tools/
-- https://privacy.sexy/
+- https://www.privacyguides.org/en/tools
+- https://privacy.sexy
 
 ## Trends
-- https://trends.google.fr/trends/
+- https://trends.google.fr/trends
 
 ## Career / Certification
 - https://niccs.cisa.gov/workforce-development/cyber-career-pathways-tool
-- https://cybersecurityguide.org/
-- https://www.stationx.net/cyber-security-career-pathway/
-- https://www.stationx.net/cyber-security-domains/
+- https://cybersecurityguide.org
+- https://www.stationx.net/cyber-security-career-pathway
+- https://www.stationx.net/cyber-security-domains
 - https://github.com/OffcierCia/non-typical-OSINT-guide
-- https://pauljerimy.com/security-certification-roadmap/
+- https://pauljerimy.com/security-certification-roadmap
 - https://inventory.raw.pm/certifications.html
 
 ## Jobs
-- https://isecjobs.com/
+- https://isecjobs.com
 - https://jobs.cybersecurityjobs.com/jobs
+
+## End Of Life
+- https://endoflife.date
 
 ## Bonus
 - https://github.com/The-Art-of-Hacking/h4cker
@@ -199,7 +206,7 @@ To find new medium article use the list in this git repository, which get update
 - https://github.com/Whitecat18/Rust-for-Malware-Development
 - https://clark.center/home
 - https://github.com/Aif4thah/Dojo-101
-- https://recon-royale.com/
+- https://recon-royale.com
 
 ## Contribution
 
