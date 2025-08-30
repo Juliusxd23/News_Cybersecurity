@@ -2,7 +2,6 @@
 
 ## Exploits / CVE
 - https://sploitus.com
-- https://0day.today
 - https://osv.dev/list
 - https://cxsecurity.com
 - https://www.exploit-db.com
@@ -36,6 +35,7 @@
 - https://www.offensiveosint.io
 - https://book.hacktricks.wiki/en/index.html
 - https://exploitreversing.com
+- https://trufflesecurity.com/blog
 
 ## Medium
 - https://medium.com/@abhirupkonwar04
@@ -155,12 +155,16 @@ To find new medium article use the list in this git repository, which get update
 ## Writeups (Bug Bounty and CTF)
 - https://ctfsearch.hackmap.win
 - https://www.bugbountyhunting.com
-- http://pentester.land/writeups
+- https://pentester.land/writeups
 - https://infosecwriteups.com/tagged/bug-bounty
 - https://github.com/rix4uni/medium-writeups
 - https://github.com/reddelexc/hackerone-reports
+- https://github.com/devanshbatham/Awesome-Bugbounty-Writeups
 - https://x.com/disclosedh1
 - https://hacker-writeups.github.io
+- https://hackenproof.com/blog/for-hackers
+- https://blog.huntr.com
+- https://blog.securelayer7.net
 - site:openbugbounty.org inurl:reports "example.com"
 - site:hackerone.com inurl:reports "example.com"
 - site:intigriti.com inurl:reports "example.com"
@@ -180,6 +184,7 @@ To find new medium article use the list in this git repository, which get update
 ## Privacy
 - https://www.privacyguides.org/en/tools
 - https://privacy.sexy
+- https://discuss.privacyguides.net/t/minimizing-windows-11-data-collection/28193
 
 ## Trends
 - https://trends.google.fr/trends
