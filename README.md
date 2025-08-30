@@ -101,6 +101,8 @@ To find new medium article use the list in this git repository, which get update
 - https://x.com/I_Am_Jakoby
 - https://x.com/infosec_au
 - https://x.com/disclosedh1
+- https://x.com/thegrugq
+- https://x.com/BRuteLogic
 
 ## Youtube Channel
 - https://www.youtube.com/@wakedxy
@@ -143,7 +145,8 @@ To find new medium article use the list in this git repository, which get update
 - https://www.hivefive.community
 - https://www.bugbountyexplained.com
 - https://vulners.com/email
-- https://www.rudeops.com/
+- https://www.rudeops.com
+- https://buttondown.com/grugq
 
 ## Google Dorks
 - https://www.exploit-db.com
@@ -165,6 +168,7 @@ To find new medium article use the list in this git repository, which get update
 - https://hackenproof.com/blog/for-hackers
 - https://blog.huntr.com
 - https://blog.securelayer7.net
+- https://getdisclosed.com
 - site:openbugbounty.org inurl:reports "example.com"
 - site:hackerone.com inurl:reports "example.com"
 - site:intigriti.com inurl:reports "example.com"
@@ -196,6 +200,7 @@ To find new medium article use the list in this git repository, which get update
 - https://www.stationx.net/cyber-security-domains
 - https://github.com/OffcierCia/non-typical-OSINT-guide
 - https://pauljerimy.com/security-certification-roadmap
+- https://www.dragkob.com/security-certification-roadmap
 - https://inventory.raw.pm/certifications.html
 
 ## Jobs
