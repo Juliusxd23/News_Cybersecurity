@@ -36,6 +36,7 @@
 - https://book.hacktricks.wiki/en/index.html
 - https://exploitreversing.com
 - https://trufflesecurity.com/blog
+- https://phrack.org
 
 ## Medium
 - https://medium.com/@abhirupkonwar04
@@ -86,6 +87,7 @@ To find new medium article use the list in this git repository, which get update
 - https://www.linkedin.com/in/baptiste-robert
 - https://www.linkedin.com/in/jess-b-investigator
 - https://www.linkedin.com/in/laura-cyberconsultante
+- https://www.linkedin.com/in/james-kettle-albinowax
 - https://www.linkedin.com/company/osintuk/posts/?feedView=all
 
 ## X / Twitter
@@ -169,6 +171,7 @@ To find new medium article use the list in this git repository, which get update
 - https://blog.huntr.com
 - https://blog.securelayer7.net
 - https://getdisclosed.com
+- https://bughunters.google.com/blog
 - site:openbugbounty.org inurl:reports "example.com"
 - site:hackerone.com inurl:reports "example.com"
 - site:intigriti.com inurl:reports "example.com"
@@ -217,6 +220,7 @@ To find new medium article use the list in this git repository, which get update
 - https://clark.center/home
 - https://github.com/Aif4thah/Dojo-101
 - https://recon-royale.com
+- https://dockerlabs.es
 
 ## Contribution
 
