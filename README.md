@@ -221,6 +221,7 @@ To find new medium article use the list in this git repository, which get update
 - https://github.com/Aif4thah/Dojo-101
 - https://recon-royale.com
 - https://dockerlabs.es
+- https://hacktheagent.com
 
 ## Contribution
 
