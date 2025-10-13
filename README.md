@@ -10,6 +10,8 @@
 - https://vulners.com
 - https://www.zero-day.cz
 - https://www.cisa.gov/known-exploited-vulnerabilities-catalog
+- https://github.com/rix4uni/cvemapping/tree/main
+- https://github.com/0xMarcio/cve
 
 ## Tools
 - https://inventory.raw.pm
@@ -21,6 +23,7 @@
 - https://cybersectools.com
 - https://it-tools.tech
 - https://selfh.st/apps
+- https://github.com/iamthefrogy/BountyHound
 
 ## Articles
 - https://hacklido.com
@@ -105,6 +108,17 @@ To find new medium article use the list in this git repository, which get update
 - https://x.com/disclosedh1
 - https://x.com/thegrugq
 - https://x.com/BRuteLogic
+- https://x.com/xnl_h4ck3r
+- https://x.com/XssPayloads
+- https://x.com/busf4ctor
+- https://x.com/xssdoctor
+- https://x.com/Behi_Sec
+- https://x.com/DefusedCyber
+- https://x.com/FaIyaZz007
+- https://x.com/TakSec
+- https://x.com/annonimous254z
+- https://x.com/viehgroup
+- https://x.com/ReconOne_bk
 
 ## Youtube Channel
 - https://www.youtube.com/@wakedxy
@@ -172,10 +186,14 @@ To find new medium article use the list in this git repository, which get update
 - https://blog.securelayer7.net
 - https://getdisclosed.com
 - https://bughunters.google.com/blog
+- https://github.com/reddelexc/hackerone-reports
 - site:openbugbounty.org inurl:reports "example.com"
 - site:hackerone.com inurl:reports "example.com"
 - site:intigriti.com inurl:reports "example.com"
 - site:bugcrowd.com inurl:reports "example.com"
+
+## New Bug Bounty Program
+- https://bbradar.io
 
 ## Ransomware
 - https://ransomwhe.re
@@ -222,6 +240,8 @@ To find new medium article use the list in this git repository, which get update
 - https://recon-royale.com
 - https://dockerlabs.es
 - https://hacktheagent.com
+- https://jaimepolop.github.io/RExpository
+- https://github.com/trimstray/the-book-of-secret-knowledge
 
 ## Contribution
 
