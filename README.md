@@ -24,6 +24,7 @@
 - https://it-tools.tech
 - https://selfh.st/apps
 - https://github.com/iamthefrogy/BountyHound
+- https://useopsis.com
 
 ## Articles
 - https://hacklido.com
